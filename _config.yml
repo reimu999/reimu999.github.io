@@ -102,6 +102,6 @@ theme: my-theme
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/reimu999/reimu999.github.io.git
+  repo: git@github.com-reimu999:reimu999/reimu999.github.io.git
   branch: gh-pages
   message: "Deploy Hexo to gh-pages"
